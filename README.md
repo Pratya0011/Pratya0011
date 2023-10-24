@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratya0011&label=Profile%20views&color=0e75b6&style=flat" alt="pratya0011" /> </p>
 
+- 🌱 Jr Frontend Engineer at Techademy
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
